@@ -1,0 +1,25 @@
+.socialList {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .socialList li {
+    margin: 0 10px;
+  }
+  
+  .socialList a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2rem;
+    transition: color 0.3s ease;
+  }
+  
+  .socialList a:hover {
+    color: #4ca1af;
+    text-decoration: underline;
+  }
+  

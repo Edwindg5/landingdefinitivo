@@ -1,0 +1,9 @@
+.posterSection {
+  padding: 20px;
+  width: 100%;
+}
+
+.scrollableContent {
+  overflow: auto; 
+  max-height: 80vh; 
+}

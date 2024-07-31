@@ -1,0 +1,10 @@
+.text {
+    text-align: justify;
+    line-height: 1.6;
+    background-color: rgba(73, 80, 87, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
