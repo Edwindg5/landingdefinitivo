@@ -1,5 +1,5 @@
 const haloData = {
-    backgroundImage: { src: '/background.jpeg', alt: 'Background' },
+    backgroundImage: { src: 'background.jpeg', alt: 'Background' },
     products: [
       { src: 'halo1.jpeg', text: 'Halo 1: Combat Evolved' },
       { src: 'halo2.jpeg', text: 'Halo 2: Anniversary' },
